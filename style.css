@@ -1,3 +1,79 @@
 body {
     font-family: sans-serif;
+background-color: blueviolet;
+}
+b{
+    color: #3914AF;
+}
+.glavnau{
+    border: black 3px double;
+    background-color: aqua;
+text-align: left;
+border-radius: 5px;
+width: 70px;
+}
+h1{
+    text-align: center;
+}
+.h2{
+  text-align: center;
+background-color: white;
+border:3px black solid;
+border-radius: 20px;
+color:lime	;   
+}
+.firework{
+    text-align: center;
+background-color: white;
+border:3px black solid;
+border-radius: 20px;
+color:red	;
+margin: 20px;
+}
+.technology{
+     text-align: center;
+background-color: white;
+border:3px black solid;
+border-radius: 20px;
+color:grey	;
+margin: 20px;   
+}
+.bs{
+       text-align: center;
+background-color: white;
+border:3px black solid;
+border-radius: 20px;
+color: goldenrod;
+margin: 20px;  
+}
+.cs{
+         text-align: center;
+background-color: white;
+border:3px black solid;
+border-radius: 20px;
+color: rgb(198, 149, 26);
+margin: 20px;    
+}
+.cs2{
+         text-align: center;
+background-color: white;
+border:3px black solid;
+border-radius: 20px;
+color: rgb(192, 60, 60);
+margin: 20px;    
+}
+.firework:hover{
+    background-color: #67E46F;
+}
+.technology:hover{
+   background-color: #ffc0b5; 
+}
+.bs:hover{
+    background-color: #fee4b2;
+}
+.cs:hover{
+    background-color: #c7b7ff;
+}
+.cs2:hover{
+    background-color: antiquewhite;
 }
